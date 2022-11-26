@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1>Thomas Conner</h1>
-**Software Engineering Student**
+#Thomas Conner
+`Software Engineering Student`
 
 I am an undergraduate student currently pursuing a Bachelor's Degree in Software Engineering 
 at the University of Texas at Dallas. I have been programming since the age of ten but, in the
