@@ -1,4 +1,4 @@
-# 🦾 Thomas Conner (He/Him)
+# 🦾 Thomas Conner
 
 **`Software Engineering Student at The University of Texas at Dallas`**
 
