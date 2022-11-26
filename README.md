@@ -1,8 +1,13 @@
 ### Hi there 👋
 
 <h1>Thomas Conner</h1>
-<h3>Software Engineer at the University of Texas at Dallas, Richardon, TX</h3>
+**'Software Engineering Student'**
 
+I am an undergraduate student currently pursuing a Bachelor's Degree in Software Engineering 
+at the University of Texas at Dallas. I have been programming since the age of ten but, in the
+past three years, I have trully fallen in love with it. I have a strong understanding of data
+structures and algorithms, assembly language, procedural programming, and object-oriented
+programming.
 
 
 <!--
