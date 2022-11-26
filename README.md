@@ -1,4 +1,4 @@
-# :feelsgood: Thomas Conner (He/Him)
+# :godmode: Thomas Conner (He/Him)
 
 **`Software Engineering Student at The University of Texas at Dallas`**
 
