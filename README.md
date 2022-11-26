@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1>Thomas Conner</h1>
+<h3>Software Engineer at the University of Texas at Dallas, Richardon, TX</h3>
 
 
 
