@@ -1,4 +1,4 @@
-# :godmode: Thomas Conner (He/Him)
+# 🦾 Thomas Conner (He/Him)
 
 **`Software Engineering Student at The University of Texas at Dallas`**
 
