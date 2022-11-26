@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#Thomas Conner
+# Thomas Conner
 
 `Software Engineering Student`
 
