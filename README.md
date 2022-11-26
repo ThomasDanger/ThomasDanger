@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Thomas Conner
+#Thomas Conner#
 `Software Engineering Student`
 
 I am an undergraduate student currently pursuing a Bachelor's Degree in Software Engineering 
