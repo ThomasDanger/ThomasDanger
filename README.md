@@ -1,13 +1,9 @@
 # Thomas Conner
 
-`Software Engineering Student`
+`Software Engineering Student at The University of Texas at Dallas`
 
-I am an undergraduate student currently pursuing a Bachelor's Degree in Software Engineering 
-at the University of Texas at Dallas. I have been programming since the age of ten but, in the
-past three years, I have trully fallen in love with it. I have a strong understanding of data
-structures and algorithms, assembly language, procedural programming, and object-oriented
-programming.
-
+I am a full-stack developer and undergraduate student currently pursuing a Bachelor's Degree in Software Engineering 
+at the University of Texas at Dallas. I am currently hoping to attain an internship in the summer of 2023.
 
 <!--
 **ThomasDanger/ThomasDanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
