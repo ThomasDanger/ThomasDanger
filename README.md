@@ -1,4 +1,4 @@
-# 🦾 Thomas Conner :finnadie:
+# 🦾 Thomas Conner
 
 **`Software Engineering Student at The University of Texas at Dallas`**
 
