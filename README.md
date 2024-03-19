@@ -3,7 +3,8 @@
 **`Software Engineering Student at The University of Texas at Dallas`**
 
 I am a full-stack developer and undergraduate student currently pursuing a Bachelor's Degree in Software Engineering at 
-the University of Texas at Dallas currently hoping to attain an internship in the summer of 2023. I also like the Simpsons.
+the University of Texas at Dallas currently hoping to attain an internship in the summer of 2024. I am a member of the 
+
 
 ## Languages and Tools 🧰 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
